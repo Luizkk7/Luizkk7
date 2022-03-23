@@ -1,6 +1,9 @@
 ## ✌ OIIE EU SOU LUIZ ANDRADE
 DESELVOLVDOR FULLSTACK🔋
+
 APAIXONADO POR TECNOLOGIA 🤖
+
+EM CONSTRUÇÃO 🚧 
  <div align="center">
  <a href="https://github.com/Luizkk7">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizkk7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
