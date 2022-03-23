@@ -3,6 +3,7 @@
 - 🚀 Full-stack Developer | Tecnologia
 - 🚧 Desenvolvedor em construção...
 - 🌱 Estudando
+##
 </div>
   <a href="https://github.com/Luizkk7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizkk7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
