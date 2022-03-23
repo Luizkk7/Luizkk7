@@ -1,4 +1,5 @@
-## ✌ OIIE EU SOU LUIZ ANDRADE
+## Luiz Andrade
+ ✌Me da um "Oi" por aqui que eu te explico como a tecnologia funciona
 DESELVOLVDOR FULLSTACK🔋
 
 APAIXONADO POR TECNOLOGIA 🤖
