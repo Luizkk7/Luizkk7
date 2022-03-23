@@ -1,5 +1,6 @@
-## ✌ Oiii eu sou a Luiz Andrade ✌. 
-🚧 Desenvolvedor FullStack 🔋
+## ✌ OIIE EU SOU LUIZ ANDRADE ✌. 
+🚧 DESELVOLVDOR FULLSTACK🔋
+   Apaixonado por Tecnologia 💙
 <div align="center">
  <a href="https://github.com/Luizkk7">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizkk7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,10 +14,8 @@
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
 ##
-
-</div>
+ </div>
   <a href="https://instagram.com/Luizkk7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/AG2CvMgk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a href="https://wa.me/5521969860322?text=Sou+Luiz+%2C+fale+comigo+%21%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
