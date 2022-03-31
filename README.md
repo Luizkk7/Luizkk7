@@ -9,6 +9,7 @@ EM CONSTRUÇÃO 🚧
   <a href="https://github.com/Luizkk7">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luizkk7&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizkk7&theme=dracula&hide_border=false&&layout=compact"/></a>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
