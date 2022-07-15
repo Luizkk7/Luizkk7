@@ -1,6 +1,6 @@
 ## Luiz Andrade
  ✌Me da um "Oi" por aqui que eu te explico como a tecnologia funciona
-DESELVOLVDOR FULLSTACK🔋
+< Software Developer >Tecnologia🚀 | JavaScript, TypeScript, Python, C+ | Node js, Nest ts | React js ...🔋
 
 APAIXONADO POR TECNOLOGIA 🤖
 
