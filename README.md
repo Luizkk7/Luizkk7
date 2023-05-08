@@ -1,6 +1,6 @@
 ## Luiz Andrade
  ✌Me da um "Oi" por aqui que eu te explico como a tecnologia funciona
-< Software Developer >Tecnologia🚀 | JavaScript, TypeScript, Python, C+ | Node js, Nest ts | React js ...🔋
+< Software Developer >Tecnologia🚀 | JavaScript, Swift,TypeScript, Python, C+ | Node js, Nest ts | React js ...🔋
 
 APAIXONADO POR TECNOLOGIA 🤖
 
